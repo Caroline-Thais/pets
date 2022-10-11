@@ -54,7 +54,7 @@ ul li a {
     color: var(--darkbg);
     text-decoration: none;
     padding: 5px 15px;
-    border-radius: 10rem;
+    border-radius: 10px;
 }
 ul li.active a,
 ul li:hover a {
