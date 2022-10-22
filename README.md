@@ -8,6 +8,7 @@ Habilidades:
 - Implementação de filtros
 - Verificações
 - Arquitetura MVC
+- Typescript
 
 ---
 Galeria:
